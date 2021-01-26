@@ -1,15 +1,13 @@
-# CHINQBlog
+# CHINQ
 
-这里是我的博客，欢迎光临！
+这里是CHINQ啊！Hi~ o(*￣▽￣*)ブ👋
 
-下面是我的友情链接👇
+### 博客
 
-### 友情链接
+点一下玩一年的博客，还不花一分钱(~~皮一下真的好吗~~) --> [CHINQBlog](www.chinq.xyz)
 
-网站名称: CHINQBlog
+---
 
-网站地址: https://www.chinq.xyz
+### 联系我：
 
-网站头像: https://cdn.chinq.xyz/avatar.png
-
-网站简介: Maybe never change...
+[Mail](mailto:cq@chinq.xyz) / [Another One](mailto:chinq6624@gmail.com)
