@@ -4,7 +4,7 @@
 
 ### 博客
 
-点一下玩一年的博客，还不花一分钱(~~皮一下真的好吗~~) --> [CHINQBlog](www.chinq.xyz)
+点一下玩一年的博客，还不花一分钱(~~皮一下真的好吗~~) --> [CHINQBlog](https://www.chinq.xyz)
 
 ---
 
