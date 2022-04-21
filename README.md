@@ -12,4 +12,9 @@
 
 ### 联系我：
 
-[Mail](mailto:cq@chinq.xyz) / [Another One](mailto:chinq6624@gmail.com)
+[Mail](mailto:i@chinq.xyz) / [Gmail](mailto:chinq6624@gmail.com)
+
+### 状态
+
+[![CHINQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHINQ&show_icons=true)](https://github.com/CHINQ)
+[![CHINQ's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHINQ&layout=compact)](https://github.com/CHINQ)  
