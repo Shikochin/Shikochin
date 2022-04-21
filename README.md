@@ -16,5 +16,5 @@
 
 ### 状态
 
-[![CHINQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHINQ&show_icons=true)](https://github.com/CHINQ)
-[![CHINQ's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHINQ&layout=compact)](https://github.com/CHINQ)  
+[![CQBerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=CQBerry&show_icons=true)](https://github.com/CQBerry)
+[![CQBerry's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CQBerry&layout=compact)](https://github.com/CQBerry)  
