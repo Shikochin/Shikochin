@@ -12,7 +12,7 @@
 
 ### 联系我：
 
-[Mail](mailto:i@chinq.xyz) / [Gmail](mailto:chinq6624@gmail.com)
+[Gmail](mailto:chinq6624@gmail.com)
 
 ### 状态
 
