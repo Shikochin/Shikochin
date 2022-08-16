@@ -4,7 +4,7 @@
 
 ### 博客
 
-[CHINQBlog](https://www.chinq.xyz)
+[![buelog](https://github-readme-stats.vercel.app/api/pin/?username=CQBerry&repo=buelog)](https://github.com/CQBerry/buelog)
 
 ---
 
