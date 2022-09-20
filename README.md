@@ -1,20 +1,22 @@
 # CHINQ
 
-这里是 CHINQ 啊！Hi~ o(*￣▽￣*)ブ👋
+Here is CHINQ！Hi~ o(*￣▽￣*)ブ👋
 
-### 博客
+### Blog
 
 [![buelog](https://github-readme-stats.vercel.app/api/pin/?username=CQBerry&repo=buelog)](https://github.com/CQBerry/buelog)
 
 ---
 
-### 联系我：
+### Contact me
 
-[Gmail](mailto:cqbery@gmail.com)
-[Twitter](https://twitter.com/CQBerry2)
+- [Gmail](mailto:cqbery@gmail.com)
+- [Twitter](https://twitter.com/CQBerry2)
 
-### 状态
+### Status
 
 [![CQBerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=CQBerry&show_icons=true)](https://github.com/CQBerry)
 
 [![CQBerry's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CQBerry&layout=compact)](https://github.com/CQBerry)  
+
+![fav lang](https://img.shields.io/badge/Favorite%20Programming%20Language-TypeScript-blue?style=for-the-badge)
