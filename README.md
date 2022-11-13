@@ -23,8 +23,8 @@ China only:
 
 ## Status
 
-[CQBerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=CQBerry&show_icons=true)
+![CQBerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=CQBerry&show_icons=true)
 
-[CQBerry's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CQBerry&layout=compact)
+![CQBerry's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CQBerry&layout=compact)
 
 ![fav lang](https://img.shields.io/badge/Favorite%20Programming%20Language-TypeScript-blue?style=for-the-badge)
