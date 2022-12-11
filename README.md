@@ -17,7 +17,7 @@ This is my personal blog, stored some novels and other articles(although now onl
 - [Email](mailto:cqbery@gmail.com)
 - [Twitter](https://twitter.com/CQBerry2)
 
-China only:
+Chinese only:
 
 - QQ: 1842490165
 
