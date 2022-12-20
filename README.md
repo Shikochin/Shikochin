@@ -6,11 +6,11 @@ I'm a middle school student in China.
 
 I'm learning Rust.
 
-## Blog
+## Self
 
-This is my personal blog, stored some novels and other articles(although now only novels).
+This is my personal website, stored some novels and other articles(although now only novels).
 
-[![buelog](https://github-readme-stats.vercel.app/api/pin/?username=CQBerry&repo=buelog)](https://github.com/CQBerry/buelog)
+[![self](https://github-readme-stats.vercel.app/api/pin/?username=CQBerry&repo=self)](https://github.com/CQBerry/self)
 
 ## Get in touch
 
