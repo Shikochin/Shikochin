@@ -14,7 +14,7 @@ This is my personal website, stored some novels and other articles(although now 
 
 ## Get in touch
 
-- [Email](mailto:cqbery@gmail.com)
+- [Email](mailto:i@cqberry.me)
 - [Twitter](https://twitter.com/CQBerry2)
 
 Chinese only:
