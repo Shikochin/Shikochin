@@ -1,14 +1,18 @@
 # CQBerry
 
-Hey there, I'm CQBerry(aka. CHINQ/CQBinary) 👋
+Hey there, I'm CQBerry 👋
 
-I'm a middle school student in China.
+I'm a middle school student in  People's Republic of China.
 
-I'm learning Rust.
+I'm learning Rust.(maybe)
 
-## Self
+## CQBlog / Self
 
-This is my personal website, stored some novels and other articles(although now only novels).
+These are my personal websites, stored some articles.
+
+WordPress: <https://www.cqberry.me>
+
+Cloudflare Pages:
 
 [![self](https://github-readme-stats.vercel.app/api/pin/?username=CQBerry&repo=self)](https://github.com/CQBerry/self)
 
@@ -16,10 +20,8 @@ This is my personal website, stored some novels and other articles(although now 
 
 - [Email](mailto:i@cqberry.me)
 - [Twitter](https://twitter.com/CQBerry2)
+- [Telegram](https://t.me/CQBerry)
 
-Chinese only:
-
-- QQ: 1842490165
 
 ## Status
 
