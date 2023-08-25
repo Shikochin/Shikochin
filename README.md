@@ -21,7 +21,7 @@ Cloudflare Pages:
 ## Get in touch
 
 - [Email](mailto:i@cqberry.me)
-- [Twitter](https://twitter.com/CQBerry2)
+- [X (Twitter)](https://twitter.com/CQBerry2)
 - [Telegram](https://t.me/CQBerry)
 
 
