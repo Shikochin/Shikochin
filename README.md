@@ -8,21 +8,15 @@ I'm a middle school student in  People's Republic of China.
 
 Working on my game project: *Narrators*
 
-## Self
+This is my personal website, stored some articles.
 
-These are my personal websites, stored some articles.
-
-WordPress: [Self](https://www.cqberry.me)
-
-Cloudflare Pages:
-
-[![self](https://github-readme-stats.vercel.app/api/pin/?username=Shikochin&repo=self)](https://github.com/Shikochin/self)
+[Ruin](https://shikoch.in)
 
 ## Get in touch
 
-- [Email](mailto:i@cqberry.me)
+- [Email](mailto:i@shikoch.in)
 - [X (Twitter)](https://twitter.com/CQBerry2)
-- [Telegram](https://t.me/CQBerry)
+- [Telegram](https://t.me/Shikochin)
 
 
 ## Status
