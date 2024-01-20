@@ -1,23 +1,20 @@
 # Shikochin
 
-Hey there, I'm Shikochin / 西宫 缄 👋
-
-I'm a middle school student in  People's Republic of China.
-
-~~I'm learning Rust.~~
-
-Working on my game project: *Narrators*
+Hey there, I'm Shikochin aka. 西宫 缄 👋
 
 This is my personal website, stored some articles.
 
 [Ruin](https://shikoch.in)
 
+This is “文摘”, stored some of my favorite words.
+
+[文摘](https://excerpt.shikoch.in)
+
 ## Get in touch
 
 - [Email](mailto:i@shikoch.in)
-- [X (Twitter)](https://twitter.com/CQBerry2)
+- [X (Twitter)](https://twitter.com/shikoch1n)
 - [Telegram](https://t.me/Shikochin)
-
 
 ## Status
 
