@@ -34,13 +34,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikochin&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shikochin&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
 ## 🎯 Current Focus
 
 ```typescript
@@ -54,9 +47,9 @@ const shikochin = {
 
 ---
 
-<div align="center">
+## 💭 Random Dev Quote
 
-### 💭 Random Dev Quote
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 **AI Generated**
