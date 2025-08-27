@@ -1,23 +1,83 @@
-# Shikochin
+<div align="center">
 
-Hey there, I'm Shikochin aka. 西宫 缄 👋
+# 👋 Hello, I'm Shikochin
+### 西宫 缄
 
-Personal Website: [Ruin](https://shikoch.in)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
-Losted [Losted](https://losted.org)
+</div>
 
-## Get in touch
+---
 
-- [Email](mailto:i@shikoch.in)
-- [X (Twitter)](https://x.com/shikoch1n)
-- [Telegram](https://t.me/Shikochin)
+## 🌐 My Digital Presence
 
-## Status
+<div align="center">
 
-![Shikochin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shikochin&show_icons=true)
+[![Personal Website](https://img.shields.io/badge/🌟_Ruin-Personal_Website-blue?style=for-the-badge&logo=safari&logoColor=white)](https://shikoch.in)
+[![Losted](https://img.shields.io/badge/🚀_Losted-Project-green?style=for-the-badge&logo=rocket&logoColor=white)](https://losted.org)
 
-![Shikochin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shikochin&layout=compact)
+</div>
 
-## roadmap.sh
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-i@shikoch.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@shikoch.in)
+[![Twitter](https://img.shields.io/badge/Twitter-@shikoch1n-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shikoch1n)
+[![Telegram](https://img.shields.io/badge/Telegram-@Shikochin-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shikochin)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shikochin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikochin&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shikochin&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+## 🛣️ Learning Journey
+
+<div align="center">
 
 [![roadmap.sh](https://roadmap.sh/card/tall/67d6e674187996bfbae698d4?variant=dark)](https://roadmap.sh)
+
+</div>
+
+## 🎯 Current Focus
+
+```typescript
+const shikochin = {
+    location: "🌍 Somewhere on Earth",
+    currentFocus: ["Full Stack Development", "Open Source", "Learning"],
+    hobbies: ["Coding", "Reading", "Exploring New Technologies"],
+    motto: "Code with passion, learn with curiosity! 🚀"
+};
+```
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/Shikochin/Shikochin/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
+
+**Thanks for visiting! 😊**
+
+![Visitor Count](https://profile-counter.glitch.me/Shikochin/count.svg)
+
+</div>
